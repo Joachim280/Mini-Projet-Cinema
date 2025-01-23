@@ -1,0 +1,17 @@
+{
+  "name": "cinema-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel 01-index.html 02-search.html 03-movie.html",
+    "build": "parcel build 01-index.html 02-search.html 03-movie.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
